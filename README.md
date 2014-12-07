@@ -1,4 +1,4 @@
-modified by Ilja Goushcha
+modified by Ilja Goushcha, December 6, 2014
 
 Modern Web Template
 ===========
